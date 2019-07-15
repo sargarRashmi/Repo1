@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is E237-F545
+
+ Directory of D:\GIT_Projects
+
+15-07-2019  17:00    <DIR>          .
+15-07-2019  17:00    <DIR>          ..
+15-07-2019  17:00                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  285,222,232,064 bytes free
